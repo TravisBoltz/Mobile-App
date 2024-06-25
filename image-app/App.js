@@ -16,7 +16,7 @@ import EmojiList from './components/EmojiList';
 import EmojiSticker from './components/EmojiSticker';
 
 const PlaceholderImage = require('./assets/images/background-image.png');
-// workings here
+// Make the working changes at this part of the code
 export default function App() {
   const [isModalVisible, setIsModalVisible] = useState(false);
   const [showAppOptions, setShowAppOptions] = useState(false);
