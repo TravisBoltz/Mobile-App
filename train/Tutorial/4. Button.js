@@ -1,3 +1,5 @@
+//Button
+//onPress = onClick
 import { ScrollView, Text, View, Image, Button } from "react-native";
 
 export default function App() {
