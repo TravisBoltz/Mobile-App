@@ -1,7 +1,7 @@
-/*Pressable is used to create custom buttoms  */
-
 import { ScrollView, Text, View, Image, Button, Pressable } from "react-native";
-
+{
+  /*Pressable is used to create custom buttoms  */
+}
 //  onPressIn = quickpress
 //  onPressOut = release
 //  onLongPress = longpress for 5 seconds or more
